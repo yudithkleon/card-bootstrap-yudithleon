@@ -4,7 +4,26 @@ body{
 main{
     margin:2%;
 }
-.profile-container {
+
+.btn-leer{
+   background-color:   #eb2ed1;
+   border: none;
+
+   
+}
+
+.btn-a-portafolio{
+ background-color: rgb(245, 245, 22);
+   border: none;
+   color: black
+}
+.title-h1{
+    text-align: center;
+    color: #1e4ed8;
+    font-size: large;
+    font-weight: bold;
+}
+.portafolio-container {
   max-width: 800px;
   margin:auto;
   padding: 30px;
@@ -14,20 +33,21 @@ main{
   font-family: "Inter", sans-serif;
   line-height: 1.7;
   color: #333;
+  
 }
 
-.profile-container h2 {
+.portafolio-container h2 {
   font-size: 28px;
   margin-bottom: 20px;
   color: #2a3b8f;
   font-weight: 700;
 }
 
-.profile-container p {
+.portafolio-container p {
   margin-bottom: 18px;
   font-size: 16px;
 }
 
-.profile-container strong {
+.portafolio-container strong {
   color: #1e4ed8;
 }
