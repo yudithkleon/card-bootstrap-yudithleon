@@ -4,3 +4,30 @@ body{
 main{
     margin:2%;
 }
+.profile-container {
+  max-width: 800px;
+  margin:auto;
+  padding: 30px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  font-family: "Inter", sans-serif;
+  line-height: 1.7;
+  color: #333;
+}
+
+.profile-container h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #2a3b8f;
+  font-weight: 700;
+}
+
+.profile-container p {
+  margin-bottom: 18px;
+  font-size: 16px;
+}
+
+.profile-container strong {
+  color: #1e4ed8;
+}
